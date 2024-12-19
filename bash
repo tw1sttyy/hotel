@@ -6,3 +6,11 @@
             app.js
     /index.html
     /create_ad.html
+/my_project
+    /templates
+        register.html
+    /static
+        /css
+            styles.css
+    /app.py
+    /database.db
